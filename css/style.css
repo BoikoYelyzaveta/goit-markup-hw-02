@@ -1,0 +1,92 @@
+
+.body {
+     background-color:  #FFFFFF;
+     font-family:Roboto;
+     font-size: 16px;
+     line-height: 150%;
+}
+
+.hero {
+background-color: #2E2F42;
+backdrop-filter: blur(4px);
+font-family: var(--font-family);
+font-weight: 700;
+font-size: 56px;
+line-height: 107%;
+letter-spacing: 0.02em;
+text-align: center;
+color: var(--white);
+
+}
+
+
+.wrapper {
+}
+.logo {
+    color: #4d5ae5;
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+}
+.dark {
+    color: #2E2F42;
+}
+
+.light {
+    color: #F4F4FD;
+    
+}
+
+.benefits {
+}
+.benefits-title {
+}
+.benefits-list {
+}
+.benefits-item {
+}
+.benefits-subtitle {
+}
+.benefits-text {
+}
+
+
+.teams {
+    background-color: #F4F4FD;
+}
+.teams-title {
+}
+.teams-list {
+}
+.teams-item {
+}
+.teams-img {
+}
+.teams-caption {
+}
+.teams-text {
+}
+
+
+.portfolio {
+}
+.portfolio-title {
+}
+.portfolio-list {
+}
+.portfolio-item {
+}
+.portfolio-img {
+}
+.portfolio-caption {
+}
+.portfolio-text {
+}
+
+.footer {
+    background-color: #2E2F42;
+}
