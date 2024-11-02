@@ -39,7 +39,8 @@
     font-style: normal;
 }
 
-.contact-link {font-size: 16px;
+.contact-link {
+    font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
@@ -99,14 +100,11 @@
 }
 .benefits-subtitle {
     font-weight: 500; 
-    font-size: 18px; 
-    color: #4d5ae5;
-
     color: #2e2f42;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    font-weight: 500;
+    
 }
 .benefits-text {
     color: #434455;
@@ -199,3 +197,4 @@
     letter-spacing: 0.02em;
 }
 
+ 
