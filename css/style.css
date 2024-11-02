@@ -20,7 +20,8 @@
     text-transform: uppercase;
 }
 .dark {
-  color: #2e2f42;
+    color:#2e2f42;
+
 } 
 
 .nav-link {
@@ -188,8 +189,8 @@
      letter-spacing: 0.03em;
      text-transform: uppercase;
 }
-.dark {
-    color: #2E2F42;
+    .light {
+        color: #f4f4fd;
 }
 
 .footer-text { 
