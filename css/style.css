@@ -18,7 +18,8 @@
     font-weight: 700;
     font-family: "Raleway", sans-serif;
 }
-
+.dark {
+    color: #2e2f42;}
 .light {
     color: #F4F4FD;   
 }
