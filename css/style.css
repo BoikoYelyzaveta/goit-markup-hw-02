@@ -8,14 +8,9 @@
 }
 
 /* header */
-.header {
-}
-.logo-nav {
-}
-.wrapper {
-}
 
-.logo-main {color: #4d5ae5;
+.logo-main {
+    color: #4d5ae5;
     font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-style: normal;
@@ -28,11 +23,8 @@
   color: #2e2f42;
 } 
 
-.header-list {
-}
-.header-item {
-}
-.nav-link {color: #2e2f42;
+.nav-link {
+    color: #2e2f42;
     letter-spacing: 0.02em;
     line-height: 1.5;
     font-size: 16px;
@@ -43,11 +35,9 @@
     color: #404bbf;}
 
 .address {
+    font-style: normal;
 }
-.address-list {
-}
-.address-item {
-}
+
 .contact-link {font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -107,9 +97,15 @@
     margin-bottom: 15px;
 }
 .benefits-subtitle {
-    font-weight: 600; 
+    font-weight: 500; 
     font-size: 18px; 
     color: #4d5ae5;
+
+    color: #2e2f42;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    font-weight: 500;
 }
 .benefits-text {
     color: #434455;
